@@ -59,6 +59,6 @@
         alt="melihyelman" /></p>
 <br />
 <br />
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center"
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihyelman&layout=compact&theme=radical"
         alt="melihyelman" /></p>
