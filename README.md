@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melih Yelman</h1>
 
+<ul>
+    <li>I'm currently studying at Yıldız Techincal University, Computer Engineering Department.</li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -59,7 +63,7 @@
         alt="melihyelman" /></p>
 <br />
 <br />
-<br />
+
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihyelman&layout=compact&theme=radical"
         alt="melihyelman" /></p>
