@@ -62,8 +62,7 @@
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=melihyelman&show_icons=true&count_private=true&theme=radical"
         alt="melihyelman" /></p>
-<br />
-<br />
+
 
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihyelman&layout=compact&theme=radical"
