@@ -56,10 +56,10 @@
 <br />
 <br />
 <hr /> 
-<p align="left"> <img
+<p align="center"> <img
         src="https://komarev.com/ghpvc/?username=melihyelman&label=Profile%20views&color=0e75b6&style=flat"
         alt="melihyelman" /> </p>
-<p><img align="left"
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=melihyelman&show_icons=true&count_private=true&theme=radical"
         alt="melihyelman" /></p>
 <br />
