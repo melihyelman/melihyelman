@@ -2,7 +2,7 @@
 
 <ul>
     <li>I'm currently studying at Yıldız Techincal University, Computer Engineering Department.</li>
-    <li>I'm interested in Javascript, React, Express.</li>
+    <li>I'm interested in Javascript, React and Express.js.</li>
 </ul>
 
 
