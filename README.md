@@ -12,9 +12,6 @@
     <a href="https://linkedin.com/in/melihyelman" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="melihyelman" height="30" width="40" />&nbsp;&nbsp;</a>
-    <a href="https://instagram.com/melihy17" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="myelman17" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/myelman17" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="myelman17" height="30" width="40" /></a>
